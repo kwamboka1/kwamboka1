@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/makori_mildred" target="blank"><img src="https://img.shields.io/twitter/follow/makori_mildred?logo=twitter&style=for-the-badge" alt="makori_mildred" /></a> </p>
 
-- 🔭 I’m currently Learning [Software Engineering](@ALX(Holberton))
+- 🔭 I’m currently Learning Software Engineering [ALX](https://www.alxafrica.com/software/)
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 📝 I regularly write articles on [https://makori-mildred.medium.com/](https://makori-mildred.medium.com/)
 
-- 💬 Ask me about **Web Design, WordPress**
+- 💬 Ask me about **Web Design, WordPress C programming for now...**
 
 - 📫 How to reach me **makorimildred@gmail.com**
 
