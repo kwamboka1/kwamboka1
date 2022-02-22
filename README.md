@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://makori-mildred.medium.com/](https://makori-mildred.medium.com/)
 
-- 💬 Ask me about **Web Design, WordPress C programming for now...**
+- 💬 Ask me about **Web Design, WordPress python programming for now...**
 
 - 📫 How to reach me **makorimildred@gmail.com**
 
