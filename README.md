@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/makori_mildred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="makori_mildred" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mildred makori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mildred makori" height="30" width="40" /></a>
-<a href="https://fb.com/mildred makori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mildred makori" height="30" width="40" /></a>
+<!--<a href="https://fb.com/mildred makori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mildred makori" height="30" width="40" /></a>-->
 <a href="https://medium.com/@makori-mildred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@makori-mildred" height="30" width="40" /></a>
 </p>
 
