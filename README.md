@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Design, WordPress python programming for now...**
 
-- 📫 How to reach me **makorimildred@gmail.com**
+- 📫 How to reach me [Email](makorimildred@gmail.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
