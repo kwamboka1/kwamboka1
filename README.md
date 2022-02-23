@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📝 I regularly write articles on [https://makori-mildred.medium.com/](https://makori-mildred.medium.com/)
+- 📝 I regularly write articles on [Medium](https://makori-mildred.medium.com/)
 
 - 💬 Ask me about **Web Design, WordPress python programming for now...**
 
