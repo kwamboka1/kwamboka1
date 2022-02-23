@@ -19,8 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Static Library in C and How to Use it.](https://makori-mildred.medium.com/how-to-create-static-library-in-c-and-how-to-use-it-b8b3e1fde999?source=rss-88f269ea2d72------2)
-- [What happens when you type `ls -l *.c` in the shell](https://makori-mildred.medium.com/what-happens-when-you-type-ls-l-c-in-the-shell-22e9bbb6e8f4?source=rss-88f269ea2d72------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
