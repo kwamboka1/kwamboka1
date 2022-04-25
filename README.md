@@ -22,6 +22,7 @@
 - [What happens when you type https://www.google.com in your browser and press Enter](https://makori-mildred.medium.com/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-7c2a3cf94b01?source=rss-88f269ea2d72------2)
 - [Web Infrastructure Design](https://makori-mildred.medium.com/web-infrastructure-design-3aeefc7727d2?source=rss-88f269ea2d72------2)
 - [How to Create a Dynamic Library in C and How to use it](https://makori-mildred.medium.com/how-to-create-a-dynamic-library-in-c-and-how-to-use-it-30c304f399a4?source=rss-88f269ea2d72------2)
+- [How to Create Static Library in C and How to Use it.](https://makori-mildred.medium.com/how-to-create-static-library-in-c-and-how-to-use-it-b8b3e1fde999?source=rss-88f269ea2d72------2)
 - [What happens when you type `ls -l *.c` in the shell](https://makori-mildred.medium.com/what-happens-when-you-type-ls-l-c-in-the-shell-22e9bbb6e8f4?source=rss-88f269ea2d72------2)
 <!-- BLOG-POST-LIST:END -->
 
