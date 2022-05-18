@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Design, WordPress python programming for now...**
 
-- 📫 How to reach me [Email](makorimildred@gmail.com)
+- 📫 Website [Portifolio]([makorimildred@gmail.com](https://kwamboka1.github.io/personal-website/))
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
