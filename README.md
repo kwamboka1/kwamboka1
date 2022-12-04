@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/makori_mildred" target="blank"><img src="https://img.shields.io/twitter/follow/makori_mildred?logo=twitter&style=for-the-badge" alt="makori_mildred" /></a> </p>
 
-- 🔭 I’m currently Learning Software Engineering [ALX](https://www.alxafrica.com/software/)
+- 🔭 I’m currently volunteering as a Software Engineer
 
 - 👯 I’m looking to collaborate on **open source projects**
 
