@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋 I am Mildred, Welcome to my profile!</h1>
 
 <img src="https://github.com/kwamboka1/kwamboka1/blob/main/twitter%20Profile%20LinkedIn%20Banner.png" alt="banner" width="1128" height="200"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwamboka1&label=Profile%20views&color=0e75b6&style=flat" alt="kwamboka1" /> </p>
