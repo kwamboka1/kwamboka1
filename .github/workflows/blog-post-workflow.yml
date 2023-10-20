@@ -12,6 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in medium.com posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: makori-mildred/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@makori-mildred"
+          feed_list: "https://medium.com/feed/makori-mildred"
+          
