@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Development and Design, WordPress and python/C programming **
 
-- 📫 Website [Portifolio](https://kwamboka1.github.io/personal-website/)
+- 📫 Website [Portifolio](https://mildredmakori.com)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
